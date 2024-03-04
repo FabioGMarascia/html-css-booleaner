@@ -26,3 +26,21 @@ footer {
 figcaption {
   font-size: 0.6em;
 }
+ul {
+  padding-left: 1em;
+}
+.first-column,
+.second-column {
+  width: 25%;
+}
+
+thead {
+  background-color: rgb(0, 128, 255);
+  color: white;
+}
+table {
+  border-spacing: 0;
+}
+.row {
+  background-color: rgb(0, 164, 229);
+}
