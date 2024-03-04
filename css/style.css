@@ -4,7 +4,12 @@
 }
 nav {
   background-image: url(/img/pattern.png);
-  background-color: blue;
+  background-color: rgb(0, 115, 255);
+}
+#logo-img {
+  width: 20%;
+  padding-top: 80px;
+  padding-left: 20px;
 }
 h1 {
   margin-bottom: 0;
@@ -15,8 +20,9 @@ h1 {
 #data-scrittura {
   font-size: 0.6em;
 }
-.intestazione {
-  color: rgba(128, 128, 128, 0.76);
+.intestazione,
+h3 {
+  color: rgba(103, 103, 103, 0.76);
 }
 #container,
 main,
@@ -43,4 +49,9 @@ table {
 }
 .row {
   background-color: rgb(0, 164, 229);
+}
+.img-text {
+  position: absolute;
+  color: white;
+  font-size: 25px;
 }
