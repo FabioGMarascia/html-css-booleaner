@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+nav {
+  background-image: url(/img/pattern.png);
+  background-color: blue;
+}
+h1 {
+  margin-bottom: 0;
+}
+#testo-logo {
+  color: rgb(57, 227, 239);
+}
+#data-scrittura {
+  font-size: 0.6em;
+}
+.intestazione {
+  color: rgba(128, 128, 128, 0.76);
+}
+#container,
+main,
+footer {
+  margin: auto 1%;
+}
+figcaption {
+  font-size: 0.6em;
+}
