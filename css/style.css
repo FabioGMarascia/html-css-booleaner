@@ -13,8 +13,8 @@ footer {
 }
 #logo-img {
   width: 20%;
-  padding-top: 80px;
-  padding-left: 10px;
+  padding-top: 5%;
+  padding-left: 1%;
 }
 #text-logo {
   color: rgb(57, 227, 239);
@@ -52,5 +52,5 @@ thead {
   font-size: 25px;
 }
 footer img {
-  padding-bottom: 20px;
+  padding-bottom: 1%;
 }
