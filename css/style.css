@@ -19,15 +19,13 @@ footer {
 #text-logo {
   color: rgb(57, 227, 239);
 }
+figcaption,
 #data-article {
   font-size: 0.6em;
 }
 .heading,
 h3 {
   color: rgba(103, 103, 103, 0.76);
-}
-figcaption {
-  font-size: 0.6em;
 }
 ul {
   padding-left: 1em;
